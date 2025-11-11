@@ -1,5 +1,6 @@
 <?php
 /* Template Name: Get Quote */
+/var/www/html/bib/wp-content/themes/bib/page-get-quote.php
 ?>
 <!DOCTYPE html>
 <html <?php language_attributes(); ?>>
