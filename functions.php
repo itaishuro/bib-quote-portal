@@ -1,6 +1,7 @@
 <?php
 
 // add this  code at the bottom of the functions.php file 
+/var/www/html/bib/wp-content/themes/bib/functions.php
 
 function bright_chatbot_shortcode() {
     ob_start();
